@@ -28,7 +28,7 @@ class TabApp extends StatelessWidget {
               ListView(
                 children: [
                   Image.network("https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"),
-                  Image.network("https://images.pexels.com/photos/5181794/pexels-photo-5181794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"),
+                  Image.network("https://images.pexels.com/photos/6273274/pexels-photo-6273274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2git "),
                   Image.network("https://images.pexels.com/photos/13536318/pexels-photo-13536318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
                 ],
               ),
